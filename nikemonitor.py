@@ -5,7 +5,7 @@ import time
 
 INSTOCK = []
 
-WEBHOOK = 'https://discord.com/api/webhooks/1076677428157624350/FBKGNNAbzgtvLzofg9nH5MWy2TMXlIXgJzifn3aEjTpxiU0BJvK-K_AiLpvtOdgpJaQN'
+WEBHOOK = ''
 
 headers = {
     
